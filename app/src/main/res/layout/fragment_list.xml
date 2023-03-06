@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ListFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/FitView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/all_items" />
+
+
+
+<!--    <TextView-->
+<!--        android:id="@+id/date"-->
+<!--        android:layout_width="200dp"-->
+<!--        android:layout_height="35dp"-->
+<!--        android:background="@color/teal_700"-->
+<!--        android:gravity="center"-->
+<!--        android:text="Last Entry: 02/20/23"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="18sp"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/avg_cal"-->
+<!--        app:layout_constraintHorizontal_bias="0.0"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="1.0" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/avg_cal"-->
+<!--        android:layout_width="200dp"-->
+<!--        android:layout_height="35dp"-->
+<!--        android:layout_marginStart="12dp"-->
+<!--        android:background="@color/teal_700"-->
+<!--        android:gravity="center"-->
+<!--        android:text="Avg. Calories: 100"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="18sp"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintStart_toEndOf="@+id/date"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="1.0" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/empty"-->
+<!--        android:layout_width="15dp"-->
+<!--        android:layout_height="35dp"-->
+<!--        android:background="@color/teal_700"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toStartOf="@+id/avg_cal"-->
+<!--        app:layout_constraintHorizontal_bias="0.416"-->
+<!--        app:layout_constraintStart_toEndOf="@+id/date" />-->
+
+
+</FrameLayout>

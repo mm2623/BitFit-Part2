@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BitFit Part2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="maximum_calories">Maximum Calories:</string>
+    <string name="minimum_calories">Minimum Calories:</string>
+    <string name="average_calories">Average Calories:</string>
+</resources>
