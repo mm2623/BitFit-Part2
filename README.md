@@ -27,11 +27,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/90267420/223283983-0480e116-fe3f-47f0-b665-98e4173e8c5f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 [LICEcap](https://licecap.en.softonic.com/) for Windows
-
 
 
 
